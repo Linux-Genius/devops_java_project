@@ -17,4 +17,5 @@ pipeline {
                 git 'https://github.com/Linux-Genius/devops_java_project.git'
             }
         }
-        }   
+        }  
+}
